@@ -1,0 +1,1 @@
+#include<unistd.h>  //contine pause y alarm:
